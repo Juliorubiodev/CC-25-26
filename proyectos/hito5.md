@@ -29,12 +29,12 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | M. CHAIMAE | <!--enlace-->                                                           | <!--enlace--> |
 | M. S. DAVID | [README general](https://github.com/davidmunozsanchez/alert_manager/blob/main/README.md)                                                          | [http://92.5.63.106/alerts/](http://92.5.63.106/alerts/) |
 | P. C. BENIGNO JOAQUIN | https://github.com/benipr14/CC_Benigno_Parra/blob/main/Hitos/Hito%205/Hito5.md                                                         | 1.0 |
-| P. FLAVIO FILIPPO | <!--enlace-->                                                           | <!--enlace--> |
+| P. FLAVIO FILIPPO | Conservatory Management System: https://github.com/Fjavio/CC_Flavio_project | 5.0 |
 | P. HENDRIK MAXIMILIAN | https://github.com/hendrikmp/CC-Project-HP/blob/main/docs/milestone5.md | 0.4.0 |
 | P. N. DANIEL | <!--enlace-->                                                           | <!--enlace--> |
 | R. A. YADIRA | <!--enlace-->                                                           | <!--enlace--> |
-| R. M. JULIO CESAR | [<!--enlace-->](https://github.com/Juliorubiodev/Inku/blob/main/docs/documentacion_hitos/Hito5.md)                                                           | [<!--enlace-->](https://inku-frontend.onrender.com/) |
-| S. NIKLAS | [<!--enlace-->](https://github.com/niklas3739/ExpenseTracker/blob/main/docs/hito05.md)                                                           | <!--enlace--> |
+| R. M. JULIO CESAR | https://github.com/Juliorubiodev/Inku/blob/main/docs/documentacion_hitos/Hito5.md                                                           | https://inku-frontend.onrender.com/ |
+| S. NIKLAS | https://github.com/niklas3739/ExpenseTracker/blob/main/docs/hito05.md                                                           | <!--enlace--> |
 | S. TIM | <!--enlace--> https://github.com/Tim16112001/TapasMap-Granada/blob/59c8e9a45da242a68bc71461aeca2da3d920221f/docs/hito5.md| <!--enlace--> |
 | S. AISCHE VERA | <!--enlace-->                                                           | <!--enlace--> |
 | T. ANAS | <!--enlace-->                                                           | <!--enlace--> |
