@@ -31,7 +31,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | P. C. BENIGNO JOAQUIN | https://github.com/benipr14/CC_Benigno_Parra/blob/main/Hitos/Hito%205/Hito5.md                                                         | 1.0 |
 | P. FLAVIO FILIPPO | Conservatory Management System: https://github.com/Fjavio/CC_Flavio_project | 5.0 |
 | P. HENDRIK MAXIMILIAN | https://github.com/hendrikmp/CC-Project-HP/blob/main/docs/milestone5.md | 0.4.0 |
-| P. N. DANIEL | <!--enlace-->                                                           | <!--enlace--> |
+| P. N. DANIEL | https://github.com/danielb113d1a/despliegueAppCC                                                          | https://cloudlibrary.up.railway.app/ |
 | R. A. YADIRA | <!--enlace-->                                                           | <!--enlace--> |
 | R. M. JULIO CESAR | https://github.com/Juliorubiodev/Inku/blob/main/docs/documentacion_hitos/Hito5.md                                                           | https://inku-frontend.onrender.com/ |
 | S. NIKLAS | https://github.com/niklas3739/ExpenseTracker/blob/main/docs/hito05.md                                                           | <!--enlace--> |
