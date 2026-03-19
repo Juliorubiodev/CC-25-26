@@ -14,7 +14,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | C. BO | <!--enlace-->                                                           | <!--enlace--> |
 | C. M. XIMENA STEFANIA | <!--enlace-->                                                           | <!--enlace--> |
 | D. G. TEODOSIO | https://github.com/Teodosiodg2002/CultureMap/blob/main/docs/hitos/hito5.md | https://culturemap-app.up.railway.app |
-| G. D. ANTONIO | <!--enlace-->                                                           | <!--enlace--> |
+| G. D. ANTONIO | [Playtracker](https://github.com/Antongd111/PlayTracker/tree/master/doc/hito5)                                                           | [Despliegue Render](https://playtracker-backend.onrender.com) (/docs para swagger) |
 | G. A. PABLO | https://github.com/pablovegood/Alejandria/blob/Hito5/documentacion/Hito5/README.md | https://alejandria.fly.dev |
 | G. R. MANUEL | https://staytrack-frontend-m4hf.onrender.com/                                                           | https://github.com/Manuelgruiz/StayTrack |
 | G. G. ANDRES | <!--enlace-->                                                           | <!--enlace--> |
