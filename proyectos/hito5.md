@@ -29,7 +29,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | M. CHAIMAE | <!--enlace-->                                                           | <!--enlace--> |
 | M. S. DAVID | [README general](https://github.com/davidmunozsanchez/alert_manager/blob/main/README.md)                                                          | [http://92.5.63.106/alerts/](http://92.5.63.106/alerts/) |
 | P. C. BENIGNO JOAQUIN | https://github.com/benipr14/CC_Benigno_Parra/blob/main/Hitos/Hito%205/Hito5.md                                                         | 1.0 |
-| G. D. ANTONIO | [Playtracker](https://github.com/Antongd111/PlayTracker/tree/master/doc/hito5)                                                           | [Despliegue Render](https://playtracker-backend.onrender.com) (/docs para swagger) |
+| P. FLAVIO FILIPPO | <!--enlace-->                                                           | <!--enlace--> |
 | P. HENDRIK MAXIMILIAN | https://github.com/hendrikmp/CC-Project-HP/blob/main/docs/milestone5.md | 0.4.0 |
 | P. N. DANIEL | <!--enlace-->                                                           | <!--enlace--> |
 | R. A. YADIRA | <!--enlace-->                                                           | <!--enlace--> |
